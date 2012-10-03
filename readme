@@ -1,0 +1,6 @@
+Uses two classes: Match and Game
+Players are identified as "Player 1" and "Player 2"
+
+Every game is played until one player wins. At that moment a new game is created. Game ends when one of the players obtains a score greater than or equal to 6 and a difference of two points agains the other player.
+
+Usage: ruby match.rb
